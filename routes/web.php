@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('index');
 });
+Route::resource("producto", "ProductosController");
+Route::resource("cliente", "ClientesController");
+Route::resource("proyecto", "ProyectoController");
+
+

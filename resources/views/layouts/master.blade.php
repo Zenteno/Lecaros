@@ -151,9 +151,9 @@
 				<ul class="sidebar-menu">
 					<li class="header">MÓDULOS</li>
 					<!-- Optionally, you can add icons to the links -->
-					<li><a href="/clientes"><span><i class="fa fa-user"></i> Clientes</span></a></li>
-					<li><a href="/productos"><span><i class="fa fa-users"></i> Productos</span></a></li>
-					<li><a href="/proyectos"><span><i class="fa fa-folder-open-o"></i> Proyectos</span></a></li>
+					<li><a href="/cliente"><span><i class="fa fa-user"></i> Clientes</span></a></li>
+					<li><a href="/producto"><span><i class="fa fa-users"></i> Productos</span></a></li>
+					<li><a href="/proyecto"><span><i class="fa fa-folder-open-o"></i> Proyectos</span></a></li>
 					<!--
 					<li class="treeview">
 						<a href="#"><span>Multilevel</span> <i class="fa fa-angle-left pull-right"></i></a>
